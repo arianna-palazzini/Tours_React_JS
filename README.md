@@ -9,7 +9,7 @@ Link al progetto completo: https://package-tours.netlify.app/
 - Lanciare comando dal terminale npm install
 - npm run start
 
-Shades Colori: npm install values.js --save
+Icone: npm install react-icons
 
 
 ____________________________________________
@@ -24,5 +24,4 @@ Link to the full project: https://package-tours.netlify.app/
 - Run command from terminal npm install
 - npm run start
 
-Color Shade Values: npm install values.js --save
-
+Icons: npm install react-icons
